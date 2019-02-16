@@ -30,7 +30,7 @@
   },
   "description": "Mongo and Mongoose Demo",
   "main": "server.js",
-  "author": "Tom Tsiliopoulos",
+  "author": "Sidharth Choudhary",
   "license": "ISC",
   "devDependencies": {
     "@types/body-parser": "^1.17.0",
